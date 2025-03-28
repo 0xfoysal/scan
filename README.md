@@ -1,1 +1,7 @@
-# scan
+-pp : timestamp request
+-pe : Eco live host
+-ps : port number range (tcp-synk) combination
+-pa : port number
+-pu : udp scan
+-pr : arp scan -> discover live request
+-pe : icmp scan -> request to identify live request
